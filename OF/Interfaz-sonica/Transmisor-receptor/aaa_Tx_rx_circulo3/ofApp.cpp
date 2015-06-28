@@ -69,8 +69,6 @@ void ofApp::update()
     // variables para el fondo de circulos
     divisor = fmod(divisor + 0.013,13);
     factor =  fmod(factor + 0.0013,13);
-
-    promedio = 0;
 }
 
 //--------------------------------------------------------------
